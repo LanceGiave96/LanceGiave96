@@ -2,7 +2,7 @@
 - 🎂 Born 18 October 1996
 - 👨🏼‍🎓 Degree in Computer Science 
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning Javascript and the open source Library React for the front-end and PHP and MySQL DB for back-end
+- 🌱 I’m currently learning Javascript and the open source Library React for the front-end and C# with SQLServer DB for back-end
 - 📫 See my profile on [Linkedin](http://www.linkedin.com/in/enrico-pedemonti-3900a9261)
 - ⚡ I'm always ready to get new Jobs and collaborations in order to increase my Skills and, why not, enjoy as Developer!👨🏼‍💻
 
